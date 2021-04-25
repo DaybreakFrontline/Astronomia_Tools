@@ -1,0 +1,9 @@
+#本服务端口配置
+server:
+  port: 7961
+
+# pageHelper
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
